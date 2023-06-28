@@ -1,0 +1,184 @@
+{"recipes":{
+  "recipe1": {
+    "id": 1,
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 can crushed tomatoes",
+      "1/4 cup tomato paste",
+      "1 tsp dried basil",
+      "1 tsp dried oregano",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper",
+      "1 lb spaghetti"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package directions.",
+      "In a large skillet, cook ground beef over medium heat until browned.",
+      "Add onion and garlic and cook until softened.",
+      "Add crushed tomatoes, tomato paste, basil, oregano, salt, and pepper.",
+      "Simmer for 10-15 minutes.",
+      "Serve sauce over spaghetti."
+    ]
+  },
+  "recipe2": {
+    "id": 2,
+    "name": "Chicken Stir Fry",
+    "ingredients": [
+      "1 lb chicken breast, sliced",
+      "2 cups broccoli florets",
+      "1 bell pepper, sliced",
+      "1 onion, sliced",
+      "2 cloves garlic, minced",
+      "1/4 cup soy sauce",
+      "1/4 cup chicken broth",
+      "1 tsp cornstarch",
+      "1 tsp sesame oil",
+      "1 tbsp vegetable oil"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together soy sauce, chicken broth, cornstarch, and sesame oil.",
+      "In a wok or large skillet, heat vegetable oil over high heat.",
+      "Add chicken and cook until browned.",
+      "Add broccoli, bell pepper, onion, and garlic and stir fry for 5-7 minutes.",
+      "Pour soy sauce mixture over stir fry and cook for another 2-3 minutes.",
+      "Serve over rice."
+    ]
+  },
+  "recipe3": {
+    "id": 3,
+    "name": "Beef Stew",
+    "ingredients": [
+      "2 lbs beef stew meat",
+      "2 onions, chopped",
+      "4 cloves garlic, minced",
+      "4 carrots, chopped",
+      "4 potatoes, chopped",
+      "1 can diced tomatoes",
+      "4 cups beef broth",
+      "2 bay leaves",
+      "1 tsp dried thyme",
+      "1 tsp salt",
+      "1/2 tsp black pepper"
+    ],
+    "instructions": [
+      "In a large pot, brown beef stew meat over medium heat.",
+      "Add onions and garlic and cook until softened.",
+      "Add carrots, potatoes, diced tomatoes, beef broth, bay leaves, thyme, salt, and pepper.",
+      "Bring to a boil, then reduce heat and simmer for 1-2 hours.",
+      "Serve hot."
+    ]
+  },
+  "recipe4": {
+    "id": 4,
+    "name": "Roasted Chicken",
+    "ingredients": [
+      "1 whole chicken",
+      "1 lemon, sliced",
+      "4 cloves garlic, minced",
+      "1 tbsp olive oil",
+      "1 tsp dried thyme",
+      "1 tsp salt",
+      "1/2 tsp black pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F.",
+      "Rinse chicken and pat dry.",
+      "Place lemon slices and minced garlic inside the chicken cavity.",
+      "Rub olive oil, thyme, salt, and pepper over the chicken.",
+      "Place chicken in a roasting pan and roast for 1-1/2 to 2 hours, or until the internal temperature of the chicken reaches 165°F.",
+      "Let the chicken rest for "
+    ]
+  },
+
+  "recipe5": {
+    "id": 5,
+    "name": "Beef Tacos",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tsp chili powder",
+      "1 tsp ground cumin",
+      "1/2 tsp smoked paprika",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper",
+      "8 corn tortillas",
+      "Toppings: shredded cheese, diced tomato, lettuce, salsa, sour cream"
+    ],
+    "instructions": [
+      "In a large skillet, cook ground beef over medium heat until browned.",
+      "Add onion and garlic and cook until softened.",
+      "Add chili powder, cumin, paprika, salt, and pepper.",
+      "Simmer for 10-15 minutes.",
+      "Serve beef mixture in corn tortillas with desired toppings."
+    ]
+  },
+  "recipe6": {
+    "id": 6,
+    "name": "Vegetable Curry",
+    "ingredients": [
+      "1 tbsp vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tbsp curry powder",
+      "1 tsp ground cumin",
+      "1/2 tsp ground coriander",
+      "1/4 tsp cayenne pepper",
+      "2 potatoes, peeled and cubed",
+      "2 carrots, sliced",
+      "1 can chickpeas, drained and rinsed",
+      "1 can diced tomatoes",
+      "1 cup vegetable broth",
+      "1/2 cup coconut milk"
+    ],
+    "instructions": [
+      "In a large pot, heat vegetable oil over medium heat.",
+      "Add onion and garlic and cook until softened.",
+      "Add curry powder, cumin, coriander, and cayenne pepper and cook for another minute.",
+      "Add potatoes, carrots, chickpeas, diced tomatoes, vegetable broth, and coconut milk.",
+      "Bring to a boil, then reduce heat and simmer for 20-30 minutes, or until vegetables are tender.",
+      "Serve hot over rice."
+    ]
+  },
+  "recipe7": {
+    "id": 7,
+    "name": "Lentil Soup",
+    "ingredients": [
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "2 carrots, chopped",
+      "2 celery stalks, chopped",
+      "1 cup dried lentils, rinsed and drained",
+      "4 cups vegetable broth",
+      "1 can diced tomatoes",
+      "1 tsp dried thyme",
+      "1 tsp salt",
+      "1/2 tsp black pepper"
+    ],
+    "instructions": [
+      "In a large pot, sauté onion and garlic over medium heat until softened.",
+      "Add carrots and celery and cook for another 5-7 minutes.",
+      "Add lentils, vegetable broth, diced tomatoes, thyme, salt, and pepper.",
+      "Bring to a boil, then reduce heat and simmer for 30-45 minutes, or until lentils are tender.",
+      "Serve hot."
+    ]
+  },
+  "recipe8": {
+    "id": 8,
+    "name": "Pesto Pasta",
+    "ingredients": [
+      "1 lb pasta",
+      "1/2 cup basil pesto",
+      "1/2 cup cherry tomatoes, halved",
+      "1/2 cup grated Parmesan cheese"
+    ],
+    "instructions": [
+      "Cook pasta according to package directions.",
+      "Drain pasta and return it to the pot.",
+      "Add basil pesto and cherry tomatoes to the pot and stir to combine.",
+      "Serve hot, topped with grated Parmesan cheese."
+    ]
+  }}}
