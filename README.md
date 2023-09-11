@@ -10,3 +10,5 @@ Update and delete existing recipes
 User registration and login
 Authentication-protected routes
 
+![Screenshot 2023-06-28 180218](https://github.com/fraol1/Recipe/assets/114133432/1db8b28f-e64e-41e0-bf18-7bd2d266015a)
+![Screenshot 2023-06-28 180120](https://github.com/fraol1/Recipe/assets/114133432/aa66fb60-3b6b-43a3-8471-8b10ee17413a)
